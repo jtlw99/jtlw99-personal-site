@@ -23,8 +23,8 @@ export default function MinimalistOLEDDarkPortfolio() {
 
       <main className="flex-grow flex flex-col justify-center items-center space-y-12">
         <section id="about" className="text-center">
-          <h1 className="text-4xl font-bold text-white mb-4">John Doe</h1>
-          <p className="text-xl text-gray-400 mb-6">Full-stack Developer</p>
+          <h1 className="text-4xl font-bold text-white mb-4">Justin Lewis</h1>
+          <p className="text-xl text-gray-400 mb-6">dev | designer | fotographer</p>
           <div className="flex justify-center space-x-4">
             <Button variant="outline" size="icon" className="rounded-full bg-transparent border-gray-700 text-gray-300 hover:bg-gray-800">
               <Github className="h-5 w-5" />
